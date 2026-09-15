@@ -1,6 +1,6 @@
 Introduction:
   Jayden Cathey
-  I am a Cybersecurity student at the University of Michigan-Flint. I currently work for the Intercultural Center on campus, but I spend a lot of free time researching and practicing IT skills. My hope when I graduate is to get a Master's degree in Human-Centered Design and work to regulate AI. 
+  I am a Cybersecurity student at the University of Michigan-Flint. I have worked for the Intercultural Center on campus as a Programming Intern since 2025. Outside of work, I spend a lot of my free time researching and practicing IT skills. My hope when I graduate is to get a Master's degree in Human-Centered Design and work to regulate AI. 
 
 Education:
 Grand Blanc High School (2020-2024)
