@@ -1,44 +1,25 @@
-# vCard - Personal portfolio
+# Jayden Cathey - Cybersecurity Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A personal portfolio website showcasing my background, skills, and projects in cybersecurity and network infrastructure. [Built from the vCard Personal Portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) 
+template by [codewithsadee](https://github.com/codewithsadee), personalized 
+with my own content and use case.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Live site: https://jayden-cathey.github.io/Jayden-Cybersecurity-Portfolio/
 
-## Demo
+## About This Project
+I built this portfolio as part of an assignment in SWE-380/CSC-580 to practice a professional GitHub + AI-assisted development workflow: forking a template, planning changes with acceptance criteria, using an AI assistant to draft an implementation plan, reviewing and testing AI-generated code, and publishing with GitHub Pages.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## What is in it
+- About: My background and current role
+- Resume: education, experience, and leadership activities
+- Portfolio: A network design proposal for a daycare client, built during my Computer Networking and Cybersecurity coursework
+- Skills: Technical skills, including VLAN configuration, Active Directory administration, network forensics (Wireshark), and deepfake detection
 
-## Prerequisites
+## Built With
+- HTML / CSS / JavaScript -- no framework
+- [Ionicons](https://ionic.io/ionicons) for iconography
+- Google Fonts (Poppins)
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+## Credits
+Original template © [codewithsadee](https://github.com/codewithsadee), 
+used under the terms of its included [LICENSE](./LICENSE).
