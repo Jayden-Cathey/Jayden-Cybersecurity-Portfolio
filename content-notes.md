@@ -3,6 +3,9 @@ Introduction:
   I am a Cybersecurity student at the University of Michigan-Flint. I have worked for the Intercultural Center on campus as a Programming Intern since 2025. Outside of work, I spend a lot of my free time researching and practicing IT skills. My hope when I graduate is to get a Master's degree in Human-Centered Design and work to regulate AI. 
 
 Education:
+Mott Community College (2021-2025)
+  Computer Networking & Cybersecurity
+  
 University of Michigan Flint (Current)
 
 Clubs: President of Mott Computer Tech Club, Treasurer of Black Student Union, member of Page Turner Society
