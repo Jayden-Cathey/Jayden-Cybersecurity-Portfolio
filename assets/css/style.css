@@ -336,6 +336,18 @@ main {
   border-radius: 20px;
 }
 
+.avatar-initials {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  font-weight: var(--fw-600);
+  color: var(--smoky-black);
+  background: var(--text-gradient-yellow);
+}
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
