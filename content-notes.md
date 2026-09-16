@@ -8,6 +8,8 @@ Grand Blanc High School (2020-2024)
 Mott Community College (2021-2025)
   Major: Computer Networking and Cybersecurity
   GPA: 3.9/4.0
+University of Michigan Flint (Current)
+  GPA: 3.7/4.0
   Clubs: President of Mott Computer Tech Club, Treasurer of Black Student Union, member of Page Turner Society
 
 Projects:
